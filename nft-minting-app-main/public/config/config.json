@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5906a9814be8285f367f91bbc54b1476da9a2cb5",
+  "SCAN_LINK": "https://snowtrace.io/token/0x5906a9814be8285f367f91bbc54b1476da9a2cb5",
+  "NETWORK": {
+    "NAME": "Avalanche",
+    "SYMBOL": "Avax",
+    "ID": 43114
+  },
+  "NFT_NAME": "Snowbirds DAO",
+  "SYMBOL": "SBDAO",
+  "MAX_SUPPLY": 7777,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "NFTrade",
+  "MARKETPLACE_LINK": "https://nftrade.com/assets/avalanche/0x5906a9814be8285f367f91bbc54b1476da9a2cb5",
+  "SHOW_BACKGROUND": true
+}
